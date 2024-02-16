@@ -16,4 +16,5 @@ have a positive impact on the world. I'm excited to share my work with you, and 
 ## Languages:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&labelColor=4e4f4e)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=4e4f4e)]()
-[![Xcode](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=4e4f4e)]()
+[![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square&labelColor=4e4f4e)]()
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=4e4f4e)]()
